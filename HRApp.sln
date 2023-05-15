@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR-App.Server", "HR-App\Server\HR-App.Server.csproj", "{AC52A39E-996D-4CCC-B1FB-84B068432F82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HRApp.Server", "HR-App\Server\HRApp.Server.csproj", "{AC52A39E-996D-4CCC-B1FB-84B068432F82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR-App.Client", "HR-App\Client\HR-App.Client.csproj", "{0D0C8E6C-771C-4C17-9393-B16F996A487E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HRApp.Client", "HR-App\Client\HRApp.Client.csproj", "{0D0C8E6C-771C-4C17-9393-B16F996A487E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR-App.Shared", "HR-App\Shared\HR-App.Shared.csproj", "{317622F3-769A-41B2-AF67-4F0B00B27FF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HRApp.Shared", "HR-App\Shared\HRApp.Shared.csproj", "{317622F3-769A-41B2-AF67-4F0B00B27FF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
